@@ -1,2 +1,2 @@
-# Template_-MF-Host
-Module Federation Template Configuration for a host app
+# MF-HOST-TEMPLATE
+Webpack's Module Federation Template Configuration for a host app
