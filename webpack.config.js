@@ -96,7 +96,7 @@ module.exports = {
   devtool: "source-map",
   devServer: {
     hot: true,
-    port: 3004,
+    port: 8080,
     historyApiFallback: true,
     static: path.join(__dirname, "dist"),
   },
